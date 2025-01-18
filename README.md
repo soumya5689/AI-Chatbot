@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/f8322bd5-d7db-4244-8f82-160a27f5bc7f)
 ﻿# AI-Chatbot
 AI Assistant 🤖
 This project is a Streamlit-based AI Assistant powered by Hugging Face models. The application provides conversational AI capabilities, enabling users to interact with an assistant that answers general questions in the user's preferred language.
